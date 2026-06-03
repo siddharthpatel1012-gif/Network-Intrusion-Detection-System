@@ -151,11 +151,6 @@ No code changes needed — it switches automatically.
 
 ---
 
-## 👨‍💻 Author
 
-**Siddharth Patel**
-- GitHub: [@siddharthpatel1012-gif](https://github.com/siddharthpatel1012-gif)
 
----
 
-> *"Detect threats before they become breaches."* 🛡️
