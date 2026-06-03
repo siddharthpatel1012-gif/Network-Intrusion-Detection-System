@@ -9,13 +9,6 @@
 
 ---
 
-## 📸 Live Dashboard
-
-![Dashboard Preview](dashboard.png)
-
-> Real-time packet monitoring, live charts, severity breakdown, top attackers panel, and one-click CSV export.
-
----
 
 ## ✨ Features
 
